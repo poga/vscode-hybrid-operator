@@ -47,6 +47,14 @@ $ git clone https://github.com/wyze/vscode-hybrid-next.git wyze.theme-hybrid-nex
 ![HTML](.github/media/html.png)
 ![CSS](.github/media/css.png)
 
+## Change Log
+
+> [Full Change Log](changelog.md)
+
+### [v1.0.0](https://github.com/wyze/vscode-hybrid-next/releases/tag/v1.0.0) (2017-02-23)
+
+* [[`ee359713ef`](https://github.com/wyze/vscode-hybrid-next/commit/ee359713ef)] - Initial commit (Neil Kistner)
+
 ## Credits
 
 Thank you to [Kai Cataldo](//github.com/kaicataldo) for making the Hybrid Next theme for Atom.
