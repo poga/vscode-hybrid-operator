@@ -1,0 +1,15 @@
+# macOS
+.*DS_Store
+
+# Git
+.github
+.vscode
+.editorconfig
+.gitattributes
+yarn.lock
+
+# Dependencies
+node_modules
+
+# Build
+*.vsix

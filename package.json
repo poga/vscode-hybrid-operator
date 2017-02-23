@@ -1,0 +1,45 @@
+{
+  "name": "theme-hybrid-next",
+  "displayName": "Hybrid Next",
+  "description": "Hybrid Next theme for VS Code.",
+  "version": "0.0.0",
+  "publisher": "wyze",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/wyze/vscode-hybrid-next"
+  },
+  "bugs": {
+    "url": "wyze/vscode-hybrid-next/issues"
+  },
+  "author": {
+    "name": "Neil Kistner",
+    "email": "neil.kistner@gmail.com",
+    "url": "neilkistner.com"
+  },
+  "license": "MIT",
+  "icon": "images/icon.svg",
+  "galleryBanner": {
+    "color": "#5f757f",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hybrid Next",
+        "path": "./themes/hybrid-next.tmTheme",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "scripts": {
+    "changelog": "changelog-maker --filter-release"
+  },
+  "devDependencies": {
+    "changelog-maker": "^2.2.5"
+  }
+}
