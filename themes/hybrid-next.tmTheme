@@ -577,12 +577,13 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Open/Close Tag (HTML/JSX)</string>
+      <string>Open/Close Tag (HTML/JSX/XML)</string>
       <key>scope</key>
       <string>
         punctuation.definition.tag.html,
         punctuation.definition.tag.begin,
-        punctuation.definition.tag.end
+        punctuation.definition.tag.end,
+        punctuation.definition.tag.xml
       </string>
       <key>settings</key>
       <dict>
@@ -751,6 +752,17 @@
         <string></string>
         <key>foreground</key>
         <string>#cc6666</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Punctuation (XML)</string>
+      <key>scope</key>
+      <string>meta.tag.preprocessor.xml, meta.tag.xml</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8abeb7</string>
       </dict>
     </dict>
   </array>
