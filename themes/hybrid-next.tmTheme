@@ -590,6 +590,169 @@
         <string>#6c7a80</string>
       </dict>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>Heading (Markdown)</string>
+      <key>scope</key>
+      <string>entity.name.section.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#b294bb</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Heading Punctuation (Markdown)</string>
+      <key>scope</key>
+      <string>punctuation.definition.heading.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#f0c674</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Punctuation (Markdown)</string>
+      <key>scope</key>
+      <string>
+        punctuation.definition.heading.markdown,
+        beginning.punctuation.definition.quote.markdown,
+        punctuation.definition.markdown,
+        punctuation.definition.italic.markdown,
+        punctuation.definition.bold.markdown,
+        beginning.punctuation.definition.list.markdown,
+        punctuation.definition.raw.markdown
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#6c7a80</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Punctuation Continued (Markdown)</string>
+      <key>scope</key>
+      <string>
+        punctuation.definition.constant.markdown,
+        punctuation.definition.string.begin.markdown,
+        punctuation.definition.string.end.markdown,
+        punctuation.definition.metadata.markdown,
+        punctuation.definition.constant.begin.markdown,
+        punctuation.definition.constant.end.markdown
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#f0c674</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Fenced Code Block (Markdown)</string>
+      <key>scope</key>
+      <string>fenced_code.block.language</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#cc6666</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Italic (Markdown)</string>
+      <key>scope</key>
+      <string>markup.italic.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#c5c8c6</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Bold (Markdown)</string>
+      <key>scope</key>
+      <string>markup.bold.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#c5c8c6</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Link (Markdown)</string>
+      <key>scope</key>
+      <string>meta.link.inline.markdown, markup.underline.link.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#81a2be</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Quote (Markdown)</string>
+      <key>scope</key>
+      <string>markup.quote.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#b5bd6888</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Unordered Lists (Markdown)</string>
+      <key>scope</key>
+      <string>markup.list.unnumbered.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#b5bd68dd</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Ordered Lists (Markdown)</string>
+      <key>scope</key>
+      <string>markup.list.numbered.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#b5bd68aa</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Constant (Markdown)</string>
+      <key>scope</key>
+      <string>constant.other.reference.link.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#cc6666</string>
+      </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>d8d5e82e-3d5b-46b5-b38e-8c841c21347d</string>
