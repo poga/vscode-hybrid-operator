@@ -765,20 +765,6 @@
         <string>#8abeb7</string>
       </dict>
     </dict>
-    <dict>
-      <key>name</key>
-      <string>Temp Fix Red</string>
-      <key>scope</key>
-      <string>
-        variable.parameter, variable.other, support.constant, entity.name.type,
-        punctuation.separator, punctuation.accessor
-      </string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#c5c8c6</string>
-      </dict>
-    </dict>
   </array>
   <key>uuid</key>
   <string>d8d5e82e-3d5b-46b5-b38e-8c841c21347d</string>
