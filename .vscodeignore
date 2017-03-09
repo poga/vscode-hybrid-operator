@@ -12,4 +12,5 @@ yarn.lock
 node_modules
 
 # Build
+scripts
 *.vsix
