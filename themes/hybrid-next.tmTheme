@@ -795,9 +795,13 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Comma (JSON)</string>
+      <string>Comma (JS/JSON)</string>
       <key>scope</key>
-      <string>punctuation.separator.dictionary.pair.json</string>
+      <string>
+        punctuation.separator.dictionary.pair.json,
+        punctuation.separator.parameter.js,
+        punctuation.separator.comma.js
+      </string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
