@@ -49,9 +49,15 @@ $ git clone https://github.com/wyze/vscode-hybrid-next.git wyze.theme-hybrid-nex
 
 > [Full Change Log](changelog.md)
 
-### [v1.1.1](https://github.com/wyze/vscode-hybrid-next/releases/tag/v1.1.1) (2017-03-08)
+### [v1.2.0](https://github.com/wyze/vscode-hybrid-next/releases/tag/v1.2.0) (2017-03-09)
 
-* [[`726cfe488c`](https://github.com/wyze/vscode-hybrid-next/commit/726cfe488c)] - Add fix for empty foreground becoming red (Neil Kistner)
+* [[`efd7f4cbc2`](https://github.com/wyze/vscode-hybrid-next/commit/efd7f4cbc2)] - Add color to comma in JS (Neil Kistner)
+* [[`47fcb67ead`](https://github.com/wyze/vscode-hybrid-next/commit/47fcb67ead)] - Add color to function parameters (Neil Kistner)
+* [[`4c2287a83f`](https://github.com/wyze/vscode-hybrid-next/commit/4c2287a83f)] - Automate release process a bit (Neil Kistner)
+* [[`6ad2d4c119`](https://github.com/wyze/vscode-hybrid-next/commit/6ad2d4c119)] - Remove some screenshots (Neil Kistner)
+* [[`0890c2c7b4`](https://github.com/wyze/vscode-hybrid-next/commit/0890c2c7b4)] - Change color for YAML tag (Neil Kistner)
+* [[`e8f3e74180`](https://github.com/wyze/vscode-hybrid-next/commit/e8f3e74180)] - Add support for JSON files (Neil Kistner)
+* [[`4745729304`](https://github.com/wyze/vscode-hybrid-next/commit/4745729304)] - Remove temp fix since it was patched by VSCode (Neil Kistner)
 
 ## Credits
 
