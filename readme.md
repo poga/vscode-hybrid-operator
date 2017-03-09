@@ -43,9 +43,7 @@ $ git clone https://github.com/wyze/vscode-hybrid-next.git wyze.theme-hybrid-nex
 > Screenshots are using [Fira Code](https://github.com/tonsky/FiraCode) font.
 
 ![JS](.github/media/js.png)
-![JSX](.github/media/jsx.png)
 ![HTML](.github/media/html.png)
-![CSS](.github/media/css.png)
 
 ## Change Log
 
