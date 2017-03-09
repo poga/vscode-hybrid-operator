@@ -412,9 +412,12 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Separator (Properties)</string>
+      <string>Separator (Properties/(S)CSS/JSON/YAML)</string>
       <key>scope</key>
-      <string>punctuation.separator.key-value.properties</string>
+      <string>
+        punctuation.separator.key-value,
+        punctuation.separator.dictionary.key-value
+      </string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -451,17 +454,6 @@
       <string>Seperator Operator (S/CSS)</string>
       <key>scope</key>
       <string>punctuation.separator.operator</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#8abeb7</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Seperator Key Value (S/CSS)</string>
-      <key>scope</key>
-      <string>punctuation.separator.key-value</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -763,6 +755,67 @@
       <dict>
         <key>foreground</key>
         <string>#8abeb7</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Punctuation (JSON)</string>
+      <key>scope</key>
+      <string>punctuation.definition.dictionary</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#f0c674</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Quotes (JSON)</string>
+      <key>scope</key>
+      <string>
+        punctuation.support.type.property-name,
+        punctuation.definition.string
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#6c7a80</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Constants (JSON)</string>
+      <key>scope</key>
+      <string>support.type.property-name.json</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#81a2be</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Comma (JSON)</string>
+      <key>scope</key>
+      <string>punctuation.separator.dictionary.pair.json</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8abeb7</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Array (JSON)</string>
+      <key>scope</key>
+      <string>
+        punctuation.definition.array.begin.json,
+        punctuation.definition.array.end.json
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#cc6666</string>
       </dict>
     </dict>
   </array>
