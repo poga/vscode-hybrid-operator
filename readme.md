@@ -1,9 +1,5 @@
 # Hybrid Operator
 
-[![Version][version-image]][marketplace-url]
-[![Installs][installs-image]][marketplace-url]
-[![Rating][rating-image]][marketplace-url]
-
 A theme for the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font. Based on the amazing [Hybrid Next](https://github.com/kaicataldo/hybrid-next-syntax) theme on VS Code.
 
 ## Installation
@@ -26,9 +22,3 @@ All credits goes to [Kai Cataldo](//github.com/kaicataldo) for making the Hybrid
 ## License
 
 MIT
-
-[version-image]: http://vsmarketplacebadge.apphb.com/version/wyze.theme-hybrid-next.svg
-[installs-image]: http://vsmarketplacebadge.apphb.com/installs/wyze.theme-hybrid-next.svg
-[rating-image]: http://vsmarketplacebadge.apphb.com/rating-short/wyze.theme-hybrid-next.svg
-
-[marketplace-url]: https://marketplace.visualstudio.com/items/wyze.theme-hybrid-next
