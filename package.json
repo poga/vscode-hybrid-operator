@@ -30,7 +30,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hybrid Midnight Operator",
+        "label": "Hybrid Operator",
         "path": "./themes/hybrid-operator.tmTheme",
         "uiTheme": "vs-dark"
       }
