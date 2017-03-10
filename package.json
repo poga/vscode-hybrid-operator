@@ -2,7 +2,7 @@
   "name": "theme-hybrid-operator",
   "displayName": "Hybyid Operator",
   "description": "Hybrid Operator theme for VS Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "poga",
   "engines": {
     "vscode": "^1.0.0"
