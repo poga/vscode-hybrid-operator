@@ -1,22 +1,22 @@
 {
-  "name": "theme-hybrid-next",
-  "displayName": "Hybrid Next",
-  "description": "Hybrid Next theme for VS Code.",
-  "version": "1.2.0",
-  "publisher": "wyze",
+  "name": "theme-hybrid-operator",
+  "displayName": "Hybyid Operator",
+  "description": "Hybrid Operator theme for VS Code.",
+  "version": "1.0.0",
+  "publisher": "poga",
   "engines": {
     "vscode": "^1.0.0"
   },
   "repository": {
-    "url": "https://github.com/wyze/vscode-hybrid-next"
+    "url": "https://github.com/poga/vscode-hybrid-operator"
   },
   "bugs": {
-    "url": "wyze/vscode-hybrid-next/issues"
+    "url": "poga/vscode-hybrid-operator/issues"
   },
   "author": {
-    "name": "Neil Kistner",
-    "email": "neil.kistner@gmail.com",
-    "url": "neilkistner.com"
+    "name": "Poga Po",
+    "email": "poga.po@gmail.com",
+    "url": "devpoga.org"
   },
   "license": "MIT",
   "icon": "images/icon.svg",
@@ -30,8 +30,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hybrid Next",
-        "path": "./themes/hybrid-next.tmTheme",
+        "label": "Hybrid Midnight Operator",
+        "path": "./themes/hybrid-operator.tmTheme",
         "uiTheme": "vs-dark"
       }
     ]
