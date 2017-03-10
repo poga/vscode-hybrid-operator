@@ -35,16 +35,5 @@
         "uiTheme": "vs-dark"
       }
     ]
-  },
-  "scripts": {
-    "changelog": "changelog-maker --filter-release",
-    "postversion": "vsce publish && vsce package",
-    "publish": "np --yolo --no-publish",
-    "version": "node scripts/version.js"
-  },
-  "devDependencies": {
-    "changelog-maker": "^2.2.5",
-    "execa": "^0.6.0",
-    "read-pkg": "^2.0.0"
   }
 }
