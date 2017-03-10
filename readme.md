@@ -4,7 +4,7 @@
 [![Installs][installs-image]][marketplace-url]
 [![Rating][rating-image]][marketplace-url]
 
-A theme for the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font. Based on the amazing [Hybrid Next](https://github.com/kaicataldo/hybrid-next-syntax) theme to VS Code.
+A theme for the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font. Based on the amazing [Hybrid Next](https://github.com/kaicataldo/hybrid-next-syntax) theme on VS Code.
 
 ## Installation
 
