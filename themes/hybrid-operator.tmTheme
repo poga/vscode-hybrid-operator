@@ -391,7 +391,94 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string></string>
+        <string>#c5c8c6</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Punctuation (JS)</string>
+      <key>scope</key>
+      <string>
+        string.regexp punctuation.definition
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#yellow</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Group/Back Reference (JS)</string>
+      <key>scope</key>
+      <string>
+        string.regexp punctuation.definition
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#f0c674</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Group/Back Reference (JS)</string>
+      <key>scope</key>
+      <string>
+        string.regexp meta.group,
+        string.regexp keyword.other.back-reference
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#c5c8c6</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Assertions/Keywords (JS)</string>
+      <key>scope</key>
+      <string>
+        string.regexp meta.assertion,
+        string.regexp keyword.operator
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#de935f</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Constant (JS)</string>
+      <key>scope</key>
+      <string>string.regexp constant.other</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#81a2be</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Constant 2 (JS)</string>
+      <key>scope</key>
+      <string>string.regexp constant.character</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#99dbff</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Regex Anchor (JS)</string>
+      <key>scope</key>
+      <string>string.regexp keyword.control.anchor</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#cc6666</string>
       </dict>
     </dict>
     <dict>
