@@ -915,6 +915,17 @@
         <string>#cc6666</string>
       </dict>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>Meta Attribute Rust</string>
+      <key>scope</key>
+      <string>meta.attribute.rust</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#BCC199</string>
+      </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>d8d5e82e-3d5b-46b5-b38e-8c841c21347d</string>
