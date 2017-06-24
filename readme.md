@@ -17,7 +17,7 @@ Launch VS Code Quick Open (⌘+P), paste the following command, and press <kbd>e
 
 ## Credits
 
-All credits goes to [Kai Cataldo](//github.com/kaicataldo) for making the Hybrid Next theme for Atom and [Neil Kistner](github.com/wyze/) for the VSCode port.
+All credits goes to [Kai Cataldo](//github.com/kaicataldo) for making the Hybrid Next theme for Atom and [Neil Kistner](//github.com/wyze/) for the VSCode port.
 
 ## License
 
